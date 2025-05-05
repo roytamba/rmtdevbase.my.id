@@ -15,25 +15,13 @@
                                 <div class="p-5">
                                     <h2 class="fw-bolder">E-Procurement</h2>
                                     <p>
-                                        E-Procurement is a comprehensive and scalable procurement system designed to
-                                        streamline the entire procurement lifecycle—from purchase requisition and vendor
-                                        selection to contract management and reporting.
-                                        Built with a modern architecture and a user-friendly interface, this system is ideal
-                                        for organizations aiming to enhance transparency, efficiency, and accountability in
-                                        their procurement processes.
+                                        E-Procurement is a modern, full-featured system that simplifies the entire
+                                        procurement process — from request to approval, vendor bidding, and reporting.
+                                        Designed for efficiency, transparency, and scalability.
                                     </p>
-                                    <ul>
-                                        <li>🔍 Purchase request and requisition workflow</li>
-                                        <li>📑 Vendor registration, bidding, and evaluation</li>
-                                        <li>📦 Contract management and delivery tracking</li>
-                                        <li>✅ Multi-level approval system</li>
-                                        <li>📊 Real-time reporting and analytics</li>
-                                    </ul>
-                                    <a href="https://your-demo-link.com" class="btn btn-primary mt-3" target="_blank">View
-                                        Demo</a>
+                                    <a href="http://eprocurement.rmtdevbase.my.id/" class="btn btn-primary mt-3" target="_blank">View Demo</a>
                                 </div>
-                                <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d"
-                                    alt="E-Procurement Preview" />
+                                <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d" alt="..." />
                             </div>
                         </div>
                     </div>
