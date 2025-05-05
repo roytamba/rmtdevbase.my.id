@@ -13,9 +13,9 @@
                         <div class="card-body p-0">
                             <div class="d-flex align-items-center">
                                 <div class="p-5">
-                                    <h2 class="fw-bolder">E-Procurement</h2>
+                                    <h2 class="fw-bolder">eProcurement</h2>
                                     <p>
-                                        RMTDEVBASE E-Procurement is a modern, full-featured system that simplifies the entire
+                                        RMTDEVBASE eProcurement is a modern, full-featured system that simplifies the entire
                                         procurement process — from request to approval, vendor bidding, and reporting.
                                         Designed for efficiency, transparency, and scalability.
                                     </p>
