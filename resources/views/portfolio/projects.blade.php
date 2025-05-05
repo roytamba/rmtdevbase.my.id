@@ -14,11 +14,26 @@
                             <div class="d-flex align-items-center">
                                 <div class="p-5">
                                     <h2 class="fw-bolder">E-Procurement</h2>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum
-                                        aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad
-                                        asperiores! Explicabo commodi quo itaque! Ipsam!</p>
+                                    <p>
+                                        E-Procurement is a comprehensive and scalable procurement system designed to
+                                        streamline the entire procurement lifecycle—from purchase requisition and vendor
+                                        selection to contract management and reporting.
+                                        Built with a modern architecture and a user-friendly interface, this system is ideal
+                                        for organizations aiming to enhance transparency, efficiency, and accountability in
+                                        their procurement processes.
+                                    </p>
+                                    <ul>
+                                        <li>🔍 Purchase request and requisition workflow</li>
+                                        <li>📑 Vendor registration, bidding, and evaluation</li>
+                                        <li>📦 Contract management and delivery tracking</li>
+                                        <li>✅ Multi-level approval system</li>
+                                        <li>📊 Real-time reporting and analytics</li>
+                                    </ul>
+                                    <a href="https://your-demo-link.com" class="btn btn-primary mt-3" target="_blank">View
+                                        Demo</a>
                                 </div>
-                                <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d" alt="..." />
+                                <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d"
+                                    alt="E-Procurement Preview" />
                             </div>
                         </div>
                     </div>
@@ -31,7 +46,8 @@
         <div class="container px-5 my-5">
             <div class="text-center">
                 <h2 class="display-4 fw-bolder mb-4">Let's build something together</h2>
-                <a class="btn btn-outline-light btn-lg px-5 py-3 fs-6 fw-bolder" href="{{ route('contact') }}">Contact me</a>
+                <a class="btn btn-outline-light btn-lg px-5 py-3 fs-6 fw-bolder" href="{{ route('contact') }}">Contact
+                    me</a>
             </div>
         </div>
     </section>
